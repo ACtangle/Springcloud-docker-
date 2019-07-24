@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../microserviceconsumermovie/pom.xml" />
+        <option value="$PROJECT_DIR$/../microserviceconsumermovieunderstandingmetadata/pom.xml" />
+        <option value="$PROJECT_DIR$/../microservicediscoverteureka/pom.xml" />
+        <option value="$PROJECT_DIR$/../microservicediscoverteurekaauthenticating/pom.xml" />
+        <option value="$PROJECT_DIR$/../microservicesimpleconsumermovie/pom.xml" />
+        <option value="$PROJECT_DIR$/../mircroserviceprovideruser/pom.xml" />
+        <option value="$PROJECT_DIR$/../mircroserviceproviderusermymetadata/pom.xml" />
+        <option value="$PROJECT_DIR$/../mircroservicesimpleprovideruser/pom.xml" />
+        <option value="$PROJECT_DIR$/../microservicediscoverteurekaha/pom.xml" />
+        <option value="$PROJECT_DIR$/../microserviceconsumermovieribboncustomizing/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

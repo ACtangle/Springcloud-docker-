@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microserviceconsumermovie/microservice-consumer-movie.iml" filepath="$PROJECT_DIR$/microserviceconsumermovie/microservice-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceconsumermovieribbon/microservice-consumer-movie-ribbon.iml" filepath="$PROJECT_DIR$/microserviceconsumermovieribbon/microservice-consumer-movie-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceconsumermovieribboncustomizing/microservice-consumer-movie-ribbon-customzing.iml" filepath="$PROJECT_DIR$/microserviceconsumermovieribboncustomizing/microservice-consumer-movie-ribbon-customzing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceconsumermovieribboncustomzingproperties/microservice-consumer-movie-ribbon-customzing-properties.iml" filepath="$PROJECT_DIR$/microserviceconsumermovieribboncustomzingproperties/microservice-consumer-movie-ribbon-customzing-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceconsumermovieunderstandingmetadata/microservice-consumer-movie-understanding-metadata.iml" filepath="$PROJECT_DIR$/microserviceconsumermovieunderstandingmetadata/microservice-consumer-movie-understanding-metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicediscoverteureka/microservice-discovert-eureka.iml" filepath="$PROJECT_DIR$/microservicediscoverteureka/microservice-discovert-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicediscoverteurekaauthenticating/microservice-discovert-eureka-authenticating.iml" filepath="$PROJECT_DIR$/microservicediscoverteurekaauthenticating/microservice-discovert-eureka-authenticating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicediscoverteurekaha/microservice-discovert-eureka-ha.iml" filepath="$PROJECT_DIR$/microservicediscoverteurekaha/microservice-discovert-eureka-ha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicesimpleconsumermovie/microservice-simple-consumer-movie.iml" filepath="$PROJECT_DIR$/microservicesimpleconsumermovie/microservice-simple-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircroserviceprovideruser/mircroservice-provider-user.iml" filepath="$PROJECT_DIR$/mircroserviceprovideruser/mircroservice-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircroserviceproviderusermymetadata/mircroservice-provider-user-my-metadata.iml" filepath="$PROJECT_DIR$/mircroserviceproviderusermymetadata/mircroservice-provider-user-my-metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircroservicesimpleprovideruser/mircroservice-simple-provider-user.iml" filepath="$PROJECT_DIR$/mircroservicesimpleprovideruser/mircroservice-simple-provider-user.iml" />
+    </modules>
+  </component>
+</project>

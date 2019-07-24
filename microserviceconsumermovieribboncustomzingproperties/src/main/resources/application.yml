@@ -1,0 +1,29 @@
+server:
+  port: 8010
+spring:
+  application:
+    name: microservice-consumer-movie
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    prefer-ip-address: true
+
+#设置服务提供方Ribbon客户端的负载均衡规则，也可采用java配置方式
+mircroservice-provider-user:
+  ribbon:
+    NFLoadBalancerRuleClassName:
+      com.netflix.loadbalancer.RandomRule
+#设置全局配置，也可采用java配置方式
+#ribbon:
+#  NFLoadBalancerRuleClassName:
+#    com.netflix.loadbalancer.RandomRule
+
+#Ribbon饥饿加载  （场景：经常会遇到服务消费方第一次消费服务提供方的请求会失败，这是因为第一次除了http的url请求耗时，还包括Robbon的客户端创建耗时）
+#解决办法即为提前创建
+ribbon:
+  eager-load:
+    enabled: true
+    clients: mircroservice-provider-user

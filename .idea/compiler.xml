@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-discovert-eureka" />
+        <module name="microservice-discovert-eureka-authenticating" />
+        <module name="microservice-discovert-eureka-ha" />
+        <module name="microservice-simple-consumer-movie" />
+        <module name="mircroservice-provider-user-my-metadata" />
+        <module name="microservice-consumer-movie-understanding-metadata" />
+        <module name="microservice-consumer-movie" />
+        <module name="microservice-consumer-movie-ribbon-customzing" />
+        <module name="mircroservice-provider-user" />
+        <module name="microservice-consumer-movie-ribbon" />
+        <module name="mircroservice-simple-provider-user" />
+        <module name="microservice-consumer-movie-ribbon-customzing-properties" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservice-consumer-movie" target="1.8" />
+      <module name="microservice-consumer-movie-ribbon" target="1.8" />
+      <module name="microservice-consumer-movie-ribbon-customzing" target="1.8" />
+      <module name="microservice-consumer-movie-ribbon-customzing-properties" target="1.8" />
+      <module name="microservice-consumer-movie-understanding-metadata" target="1.8" />
+      <module name="microservice-discovert-eureka" target="1.8" />
+      <module name="microservice-discovert-eureka-authenticating" target="1.8" />
+      <module name="microservice-discovert-eureka-ha" target="1.8" />
+      <module name="microservice-simple-consumer-movie" target="1.8" />
+      <module name="mircroservice-provider-user" target="1.8" />
+      <module name="mircroservice-provider-user-my-metadata" target="1.8" />
+      <module name="mircroservice-simple-provider-user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

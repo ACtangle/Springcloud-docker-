@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-discovert-eureka" />
+        <module name="mircroservice-provider-user" />
+        <module name="microservice-discovert-eureka-ha" />
+        <module name="microservice-simple-consumer-movie" />
+        <module name="mircroservice-provider-user-my-metadata" />
+        <module name="microservice-consumer-movie" />
+        <module name="microservice-discovert-eureka-authenticating" />
+        <module name="microservice-consumer-movie-ribbon" />
+        <module name="mircroservice-simple-provider-user" />
+        <module name="microservice-consumer-movie-understanding-metadata" />
+        <module name="microserviceconsumermovie" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservice-discovert-eureka (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
