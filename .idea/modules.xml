@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/microserviceconsumermovie/microservice-consumer-movie.iml" filepath="$PROJECT_DIR$/microserviceconsumermovie/microservice-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceconsumermoviefeign/microservice-consumer-movie-feign.iml" filepath="$PROJECT_DIR$/microserviceconsumermoviefeign/microservice-consumer-movie-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/microserviceconsumermovieribbon/microservice-consumer-movie-ribbon.iml" filepath="$PROJECT_DIR$/microserviceconsumermovieribbon/microservice-consumer-movie-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/microserviceconsumermovieribboncustomizing/microservice-consumer-movie-ribbon-customzing.iml" filepath="$PROJECT_DIR$/microserviceconsumermovieribboncustomizing/microservice-consumer-movie-ribbon-customzing.iml" />
       <module fileurl="file://$PROJECT_DIR$/microserviceconsumermovieribboncustomzingproperties/microservice-consumer-movie-ribbon-customzing-properties.iml" filepath="$PROJECT_DIR$/microserviceconsumermovieribboncustomzingproperties/microservice-consumer-movie-ribbon-customzing-properties.iml" />

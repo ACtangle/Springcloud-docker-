@@ -14,6 +14,7 @@
     <file url="file://$PROJECT_DIR$/../mircroserviceproviderusermymetadata" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mircroservicesimpleprovideruser" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microserviceconsumermovie" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceconsumermoviefeign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microserviceconsumermovieribbon" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microserviceconsumermovieribboncustomizing" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microserviceconsumermovieribboncustomzingproperties" charset="UTF-8" />
