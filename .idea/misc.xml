@@ -28,6 +28,9 @@
         <option value="$PROJECT_DIR$/mircroserviceproviderusermymetadata/pom.xml" />
         <option value="$PROJECT_DIR$/mircroservicesimpleprovideruser/pom.xml" />
         <option value="$PROJECT_DIR$/microserviceconsumermoviefeign/pom.xml" />
+        <option value="$PROJECT_DIR$/microserviceconsumermoviefeigncustomzing/pom.xml" />
+        <option value="$PROJECT_DIR$/mircroserviceprovideruserauth/pom.xml" />
+        <option value="$PROJECT_DIR$/microserviceconsumermoviefeign-manual/pom.xml" />
       </list>
     </option>
   </component>
