@@ -9,6 +9,7 @@
         <module name="microservice-consumer-movie-feign" />
         <module name="microservice-consumer-movie-feign-hystrix-fallback" />
         <module name="microservice-consumer-movie-feign-logging" />
+        <module name="mircroservicegatewayzuul" />
         <module name="microservice-simple-consumer-movie" />
         <module name="microservicehystrixdashboard" />
         <module name="microservice-consumer-movie-ribbon-hystrix" />
@@ -57,6 +58,7 @@
       <module name="mircroservice-provider-user-auth" target="1.8" />
       <module name="mircroservice-provider-user-my-metadata" target="1.8" />
       <module name="mircroservice-simple-provider-user" target="1.8" />
+      <module name="mircroservicegatewayzuul" target="1.8" />
       <module name="mircroservicehystrixturbine" target="1.8" />
     </bytecodeTargetLevel>
   </component>
