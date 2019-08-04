@@ -33,6 +33,7 @@
         <option value="$PROJECT_DIR$/microserviceconsumermoviefeign-manual/pom.xml" />
         <option value="$PROJECT_DIR$/microserviceconsumermoviefeignlogging/pom.xml" />
         <option value="$PROJECT_DIR$/microserviceconsumermovieribbonhystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/microserviceconsumermoviefeignhystrixfallback/pom.xml" />
       </list>
     </option>
   </component>

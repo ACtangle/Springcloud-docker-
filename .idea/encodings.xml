@@ -6,6 +6,7 @@
     <file url="file://$PROJECT_DIR$/microserviceconsumermoviefeign-manual" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microserviceconsumermoviefeigncustomzing" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microserviceconsumermoviefeignhystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceconsumermoviefeignhystrixfallback" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microserviceconsumermoviefeignlogging" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microserviceconsumermovieribbon" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microserviceconsumermovieribboncustomizing" charset="UTF-8" />
