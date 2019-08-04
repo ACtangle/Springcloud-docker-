@@ -31,6 +31,8 @@
         <option value="$PROJECT_DIR$/microserviceconsumermoviefeigncustomzing/pom.xml" />
         <option value="$PROJECT_DIR$/mircroserviceprovideruserauth/pom.xml" />
         <option value="$PROJECT_DIR$/microserviceconsumermoviefeign-manual/pom.xml" />
+        <option value="$PROJECT_DIR$/microserviceconsumermoviefeignlogging/pom.xml" />
+        <option value="$PROJECT_DIR$/microserviceconsumermovieribbonhystrix/pom.xml" />
       </list>
     </option>
   </component>
