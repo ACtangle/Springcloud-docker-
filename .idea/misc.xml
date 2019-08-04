@@ -40,6 +40,7 @@
         <option value="$PROJECT_DIR$/microserviceconsumermovieribbonhystrixturbinemq/pom.xml" />
         <option value="$PROJECT_DIR$/mircroservicehystrixturbinemq/pom.xml" />
         <option value="$PROJECT_DIR$/mircroservicegatewayzuul/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicefileupload/pom.xml" />
       </list>
     </option>
   </component>

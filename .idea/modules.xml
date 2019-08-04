@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/microservicediscoverteurekaha/microservice-discovert-eureka-ha.iml" filepath="$PROJECT_DIR$/microservicediscoverteurekaha/microservice-discovert-eureka-ha.iml" />
       <module fileurl="file://$PROJECT_DIR$/mircroservicehystrixturbinemq/microservice-hystrix-turbine-mq.iml" filepath="$PROJECT_DIR$/mircroservicehystrixturbinemq/microservice-hystrix-turbine-mq.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicesimpleconsumermovie/microservice-simple-consumer-movie.iml" filepath="$PROJECT_DIR$/microservicesimpleconsumermovie/microservice-simple-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicefileupload/microservicefileupload.iml" filepath="$PROJECT_DIR$/microservicefileupload/microservicefileupload.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicehystrixdashboard/microservicehystrixdashboard.iml" filepath="$PROJECT_DIR$/microservicehystrixdashboard/microservicehystrixdashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/mircroserviceprovideruser/mircroservice-provider-user.iml" filepath="$PROJECT_DIR$/mircroserviceprovideruser/mircroservice-provider-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/mircroserviceprovideruserauth/mircroservice-provider-user-auth.iml" filepath="$PROJECT_DIR$/mircroserviceprovideruserauth/mircroservice-provider-user-auth.iml" />

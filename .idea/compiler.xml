@@ -9,9 +9,8 @@
         <module name="microservice-consumer-movie-feign" />
         <module name="microservice-consumer-movie-feign-hystrix-fallback" />
         <module name="microservice-consumer-movie-feign-logging" />
-        <module name="mircroservicegatewayzuul" />
         <module name="microservice-simple-consumer-movie" />
-        <module name="microservicehystrixdashboard" />
+        <module name="microservice-consumer-movie" />
         <module name="microservice-consumer-movie-ribbon-hystrix" />
         <module name="mircroservice-provider-user" />
         <module name="microservice-discovert-eureka" />
@@ -19,17 +18,19 @@
         <module name="microservice-consumer-movie-ribbon-customzing-properties" />
         <module name="microservice-hystrix-turbine-mq" />
         <module name="microservice-consumer-movie-ribbon-hystrix-turbine-mq" />
-        <module name="microservice-consumer-movie-understanding-metadata" />
+        <module name="microservicefileupload" />
         <module name="mircroservice-provider-user-my-metadata" />
+        <module name="microservice-discovert-eureka-authenticating" />
         <module name="microservice-consumer-movie-ribbon-customzing" />
         <module name="microservice-consumer-movie-ribbon" />
         <module name="microservice-consumer-movie-feign-hystrix-fallback-factory" />
+        <module name="mircroservicegatewayzuul" />
         <module name="mircroservice-provider-user-auth" />
-        <module name="microservice-discovert-eureka-authenticating" />
+        <module name="microservicehystrixdashboard" />
         <module name="microservice-discovert-eureka-ha" />
         <module name="mircroservice-simple-provider-user" />
         <module name="microservice-consumer-movie-feign-manual" />
-        <module name="microservice-consumer-movie" />
+        <module name="microservice-consumer-movie-understanding-metadata" />
         <module name="microservice-consumer-movie-feign-customzing" />
       </profile>
     </annotationProcessing>
@@ -53,6 +54,7 @@
       <module name="microservice-discovert-eureka-ha" target="1.8" />
       <module name="microservice-hystrix-turbine-mq" target="1.8" />
       <module name="microservice-simple-consumer-movie" target="1.8" />
+      <module name="microservicefileupload" target="1.8" />
       <module name="microservicehystrixdashboard" target="1.8" />
       <module name="mircroservice-provider-user" target="1.8" />
       <module name="mircroservice-provider-user-auth" target="1.8" />
