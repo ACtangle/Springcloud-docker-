@@ -1,8 +1,8 @@
 server:
-  port: 8010
+  port: 8020
 spring:
   application:
-    name: microservice-consumer-movie
+    name: microservice-consumer-movie-feign-hystrix-fallback
 
 eureka:
   client:
@@ -12,5 +12,4 @@ eureka:
     prefer-ip-address: true
 feign:
   hystrix:
-    enabled:
-      true
+    enabled: true

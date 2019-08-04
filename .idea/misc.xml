@@ -35,6 +35,8 @@
         <option value="$PROJECT_DIR$/microserviceconsumermovieribbonhystrix/pom.xml" />
         <option value="$PROJECT_DIR$/microserviceconsumermoviefeignhystrixfallback/pom.xml" />
         <option value="$PROJECT_DIR$/microserviceconsumermoviefeignhystrixfallbackfactory/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicehystrixdashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/mircroservicehystrixturbine/pom.xml" />
       </list>
     </option>
   </component>
