@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/microservicesimpleconsumermovie/microservice-simple-consumer-movie.iml" filepath="$PROJECT_DIR$/microservicesimpleconsumermovie/microservice-simple-consumer-movie.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicefileupload/microservicefileupload.iml" filepath="$PROJECT_DIR$/microservicefileupload/microservicefileupload.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicehystrixdashboard/microservicehystrixdashboard.iml" filepath="$PROJECT_DIR$/microservicehystrixdashboard/microservicehystrixdashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircroservicegatewayzuulfallback/mircroservice-gateway-zuulfallback.iml" filepath="$PROJECT_DIR$/mircroservicegatewayzuulfallback/mircroservice-gateway-zuulfallback.iml" />
       <module fileurl="file://$PROJECT_DIR$/mircroservicegatewayzuulfilter/mircroservice-gateway-zuulfilter.iml" filepath="$PROJECT_DIR$/mircroservicegatewayzuulfilter/mircroservice-gateway-zuulfilter.iml" />
       <module fileurl="file://$PROJECT_DIR$/mircroserviceprovideruser/mircroservice-provider-user.iml" filepath="$PROJECT_DIR$/mircroserviceprovideruser/mircroservice-provider-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/mircroserviceprovideruserauth/mircroservice-provider-user-auth.iml" filepath="$PROJECT_DIR$/mircroserviceprovideruserauth/mircroservice-provider-user-auth.iml" />

@@ -24,6 +24,7 @@
         <module name="mircroservice-gateway-zuulfilter" />
         <module name="microservice-consumer-movie-ribbon-customzing" />
         <module name="microservice-consumer-movie-ribbon" />
+        <module name="mircroservice-gateway-zuulfallback" />
         <module name="microservice-consumer-movie-feign-hystrix-fallback-factory" />
         <module name="mircroservicegatewayzuul" />
         <module name="mircroservice-provider-user-auth" />
@@ -57,6 +58,7 @@
       <module name="microservice-simple-consumer-movie" target="1.8" />
       <module name="microservicefileupload" target="1.8" />
       <module name="microservicehystrixdashboard" target="1.8" />
+      <module name="mircroservice-gateway-zuulfallback" target="1.8" />
       <module name="mircroservice-gateway-zuulfilter" target="1.8" />
       <module name="mircroservice-provider-user" target="1.8" />
       <module name="mircroservice-provider-user-auth" target="1.8" />

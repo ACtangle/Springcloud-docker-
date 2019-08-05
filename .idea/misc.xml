@@ -42,6 +42,7 @@
         <option value="$PROJECT_DIR$/mircroservicegatewayzuul/pom.xml" />
         <option value="$PROJECT_DIR$/microservicefileupload/pom.xml" />
         <option value="$PROJECT_DIR$/mircroservicegatewayzuulfilter/pom.xml" />
+        <option value="$PROJECT_DIR$/mircroservicegatewayzuulfallback/pom.xml" />
       </list>
     </option>
   </component>
