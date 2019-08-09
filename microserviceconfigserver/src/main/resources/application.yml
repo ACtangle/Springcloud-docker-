@@ -1,0 +1,19 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: microservice-config-server
+  cloud:
+    config:
+      server:
+        git:
+          # 配置git仓库位置
+          uri: https://github.com/ACtangle/Springcloud-docker-demo
+          username: ACtangle
+          password: yongjia8865487
+        health:
+          repositories:
+            a-foo:
+              label: config-label-v2.0
+              name: microservice-foo
+              profiles: dev
